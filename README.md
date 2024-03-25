@@ -1,4 +1,5 @@
 # Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+![image](https://github.com/KennySpratt/Anime/assets/82186300/af3e0972-b87e-4479-8291-2e3f9446c0a5)
+
 
